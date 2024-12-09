@@ -1,31 +1,15 @@
 <!-- sections -->
 **sections:**
 
-[Heading](#head-1)
-
-[Italics](#italics)
-
-[strong](#strong)
-
-[strike](#strike)
-
-[horizontal](#horizontal)
-
-[showing special character](#showing-special-character)
-
-[block quotes](#block-quotes)
-
-[links](#links)
-
-[Unordered List](#unordered-list)
-
-[Ordered List](#ordered-list)
-
-[inline code blocks](#inline-code-blocks)
-
-[image](#image)
-
-[Github markdown](#github-markdown)
+| list | name:                                                 |list  | name:                                   |
+|:-----|          :-------:                                    |:-----|          :-------:                      |
+|1.    |[Heading](#head-1)                                     |8.    |[links](#links)                          |
+|2.    |[Italics](#italics)                                    |9.    |[Unordered List](#unordered-list)        |
+|3.    |[strong](#strong)                                      |10.   |[Ordered List](#ordered-list)            |
+|4.    |[strike](#strike)                                      |11.   |[inline code blocks](#inline-code-blocks)|
+|5.    |[horizontal](#horizontal)                              |12.   |[image](#image)                          |
+|6.    |[showing special character](#showing-special-character)|13.   |[Github markdown](#github-markdown)      |
+|7.    |[block quotes](#block-quotes)                          |14    |                                         |
 
 <!-- Heading -->
 # Head 1
